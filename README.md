@@ -12,12 +12,7 @@ A modern slider class
     <div class="slide--container--slide slide--container-fade">
       <img src='src/assets/images/min/mountain.jpg' alt='mountain'>
       <div class="slide--container--context">
-        Neue Branchen prägen die Wirtschaft
-      </div>
-      <div class="slide--container--button">
-        <div class="slide--container--button-style">
-          <a href="#">Mehr erfahren</a>
-        </div>
+        Welcome
       </div>
     </div>
     <div class="slide--container--slide slide--container-fade">
